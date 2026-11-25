@@ -14,5 +14,11 @@ To write a YACC program to recognize the grammar anb where n>=10.
 8.	Enter a string as input and it is identified as valid or invalid.
 # PROGRAM:
 # OUTPUT
+## VALID OUTPUT :
+<img width="1477" height="750" alt="opvalcd" src="https://github.com/user-attachments/assets/a9eacd91-cee9-4536-8837-9b29f82fba5b" />
+
+## INVALID OUTPUT :
+<img width="1487" height="733" alt="image" src="https://github.com/user-attachments/assets/c342b3c5-07ac-4160-bbac-b3125de7f054" />
+
 # RESULT
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
